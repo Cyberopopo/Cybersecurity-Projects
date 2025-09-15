@@ -7,5 +7,5 @@
 
 <h2>📺 Certifications:</h2>
 
-- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/ridwanoyedele-9011/credentials/certification/azure-ai-fundamentals?tab=tab-learning-paths)
+- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/ridwanoyedele-9011/credentials/e57d1a97b2907857)
 
